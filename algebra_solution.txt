@@ -1,0 +1,29 @@
+# Algebra Problem Solution
+
+## Problem Statement:
+Evaluate the expression: **3 * 4 + 3 = ?**
+
+---
+
+## Step-by-Step Explanation:
+
+1. **Understand Order of Operations (PEMDAS / BODMAS):**
+   When solving expressions with multiple operations, follow the standard order of operations:
+   - **P**arentheses / **B**rackets
+   - **E**xponents / **O**rders
+   - **M**ultiplication and **D**ivision (from left to right)
+   - **A**ddition and **S**ubtraction (from left to right)
+
+2. **Step 1: Perform Multiplication**
+   In the expression `3 * 4 + 3`, multiplication takes priority over addition.
+   Calculate:
+   $$3 \times 4 = 12$$
+
+3. **Step 2: Perform Addition**
+   Now substitute `12` back into the expression:
+   $$12 + 3 = 15$$
+
+---
+
+## Final Result:
+**3 * 4 + 3 = 15**
